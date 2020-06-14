@@ -8,8 +8,8 @@
 
 
 ### Key Performance Indicators:
--Accuracy of the model
--Percentage of correct words per minute
+- Accuracy of the model
+- Percentage of correct words per minute
 
 ### Tech Stack to be used:
 
